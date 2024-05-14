@@ -1,0 +1,5 @@
+﻿  Bank1.cpp
+D:\ps\Roadmap ProgrammingAdvices\07 - Algorithms & Problem Solving Level 3\Projects\Bank1\Bank1.cpp(30,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ps\Roadmap ProgrammingAdvices\07 - Algorithms & Problem Solving Level 3\Projects\Bank1\Bank1.cpp(348): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ps\Roadmap ProgrammingAdvices\07 - Algorithms & Problem Solving Level 3\Projects\Bank1\Bank1.cpp(385): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank1.vcxproj -> D:\ps\Roadmap ProgrammingAdvices\07 - Algorithms & Problem Solving Level 3\Projects\Bank1\x64\Debug\Bank1.exe
