@@ -1,0 +1,3 @@
+D:\ps\05-Algorithms & Problem Solving  Level2\Projects\MathGame\x64\Debug\MathGame.exe
+D:\ps\Roadmap  ProgrammingAdvices\05-Algorithms & Problem Solving  Level2\Projects\MathGame\x64\Debug\MathGame.exe
+D:\ps\Roadmap ProgrammingAdvices\05-Algorithms & Problem Solving  Level2\Projects\MathGame\x64\Debug\MathGame.exe
