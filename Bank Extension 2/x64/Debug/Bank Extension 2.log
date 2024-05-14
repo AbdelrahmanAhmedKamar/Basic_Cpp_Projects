@@ -1,0 +1,8 @@
+﻿  Bank Extension 2.cpp
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(72,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(856): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(938): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(898): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(978): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\Bank Extension 2.cpp(1005): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank Extension 2.vcxproj -> D:\ps\Roadmap ProgrammingAdvices\08 - Algorithms & Problem Solving Level 4\Projects\Bank Extension 2\x64\Debug\Bank Extension 2.exe
